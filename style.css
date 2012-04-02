@@ -3,5 +3,26 @@ body{
 	margin 	: 2em auto; 
 	color 	: #333; 
 	font 	: normal 1em sans-serif;
-	background:#eee; 
+	background 		: #eee; 
+}
+
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+pre{font-size:1.2em;}
+
+header{
+	margin-bottom	: 2em;
+	border-bottom	: 2px solid #333;
+}
+
+header h1{
+	margin-bottom	: 0.2em;
+}
+
+header h2{
+	margin-top		: 0.2em;
+}
+
+footer{
+	margin-top		: 2em;
+	border-top		: 2px solid #333;
 }
